@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PyWebSol
+- 👀 I am interested in programming and machine learning
+- 🌱 I’m currently learning Python3 and HTML/CSS/JS
+- 💞️ I’m looking to collaborate on NANIX
+- 📫 You can contact me via Telegram. My nickname is @PyWebSol
